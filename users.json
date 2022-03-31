@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "j1",
+      "Username": "John",
+      "FullName": "John Doe",
+      "LastLogin": "1996-08-01 00:00:00.000",
+      "Enabled": false,
+      "firstname": "test",
+      "lastname": "test",
+      "enabled": true
+    },
+    {
+      "id": "s1",
+      "Username": "Sara",
+      "FullName": "Sara TEST Craft",
+      "LastLogin": "2021-08-01 00:00:00.000",
+      "Enabled": true,
+      "firstname": "Sara TEST",
+      "lastname": "Craft",
+      "enabled": true
+    },
+    {
+      "id": "l1",
+      "Username": "Lana",
+      "FullName": "Lana Delrao",
+      "LastLogin": "2017-08-01 00:00:00.000",
+      "Enabled": true
+    },
+    {
+      "id": "j2",
+      "Username": "Jim",
+      "FullName": "Jim Carry",
+      "LastLogin": "2002-08-01 00:00:00.000",
+      "Enabled": true
+    },
+    {
+      "id": "j3",
+      "Username": "Johny",
+      "FullName": "Johny Deps",
+      "LastLogin": "2010-08-01 00:00:00.000",
+      "Enabled": false
+    },
+    {
+      "id": "e736f820-e8f0-4711-b706-a4a35b501d66",
+      "Username": "carlu11",
+      "Enable": true,
+      "FullName": "nea Carlson"
+    },
+    {
+      "id": "0fca08ef-5ebd-432a-8e0c-5d4a74b6fca2",
+      "LastLogin": 1648656772402,
+      "Username": "ace",
+      "Enable": true,
+      "FullName": "ventura ventura"
+    }
+  ]
+}
